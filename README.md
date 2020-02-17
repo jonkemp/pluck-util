@@ -21,7 +21,7 @@ Or [unpkg](https://unpkg.com/pluck-util/)
 <script src="https://unpkg.com/pluck-util@1.0.0/umd/index.js" />
 ```
 
-Check out the unit tests on [CodePen](https://codepen.io/jonkemp/full/rNVeVKE).
+Check out the unit tests on [CodePen](https://codepen.io/jonkemp/full/KKpzYzz).
 
 ## Usage
 
