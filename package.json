@@ -1,6 +1,6 @@
 {
 	"name": "pluck-util",
-	"version": "1.0.0-alpha",
+	"version": "1.0.0",
 	"description": "Extract a list of property values from a collection.",
 	"main": "index.js",
 	"scripts": {
