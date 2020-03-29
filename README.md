@@ -18,7 +18,7 @@ $ npm install pluck-util
 Or [unpkg](https://unpkg.com/pluck-util/)
 
 ```
-<script src="https://unpkg.com/pluck-util@1.0.1/umd/index.js" />
+<script src="https://unpkg.com/pluck-util@1.0.2/umd/index.js" />
 ```
 
 Check out the unit tests on [CodePen](https://codepen.io/jonkemp/full/KKpzYzz).
