@@ -1,4 +1,4 @@
-# pluck-util [![Build Status](https://travis-ci.com/jonkemp/pluck-util.svg?branch=master)](https://travis-ci.com/jonkemp/pluck-util)
+# pluck-util ![Build Status](https://github.com/jonkemp/pluck-util/actions/workflows/main.yml/badge.svg?branch=master)
 
 > Extract a list of property values from a collection.
 
